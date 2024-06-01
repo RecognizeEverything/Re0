@@ -1,0 +1,15 @@
+[submodule "submodule/detectron2"]
+	path = submodule/detectron2
+	url = https://github.com/facebookresearch/detectron2.git
+[submodule "submodule/Entity"]
+	path = submodule/Entity
+	url = https://github.com/qqlu/Entity.git
+[submodule "submodule/CLIP"]
+	path = submodule/CLIP
+	url = https://github.com/openai/CLIP.git
+[submodule "submodule/ScanNet"]
+	path = submodule/ScanNet
+	url = https://github.com/ScanNet/ScanNet.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/facebookresearch/detectron2.git
